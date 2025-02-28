@@ -1,0 +1,24 @@
+{
+    "name": "HertaS",
+    "description": "PERFECT",
+    "symbol": "SE",
+    "image": "https://i.imgur.com/QcS6DcT.png",
+    "attributes": [
+        {
+            "trait_type": "event",
+            "value": "EXCLUSIVE BADGE"
+        },
+        {
+            "trait_type": "year",
+            "value": "2025"
+        },
+        {
+            "trait_type": "region",
+            "value": "Luzon"
+        },
+        {
+            "trait_type": "website",
+            "value": "selyo.quest"
+        }
+    ]
+}
